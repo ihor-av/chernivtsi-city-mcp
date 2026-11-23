@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evaluation>
+  <qa_pair>
+    <question>Which Chernivtsi city announcement page announces public hearings for the 2027–2030 development programmes on 5 November 2026?</question>
+    <answer>5-listopada-vidbudutsya-gromadski-slukhannya-shchodo-program-rozvitku-chernivetskoji-mtg-na-2027-2030-roki-6958</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Which Chernivtsi address has house number 100 on Головна street in the city itself, and what are its coordinates?</question>
+    <answer>48.2742469044033, 25.9441909941013</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>What is the monthly rent and debt for the communal building lease at Головна, 100 held by the religious organisation?</question>
+    <answer>8286.68 UAH monthly rent and 237752.47 UAH debt</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Which communal building lease has the largest debt in the 2026-10-01 snapshot?</question>
+    <answer>The lease at Головна, 100 for the religious organisation, with 237752.47 UAH debt</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>What is the one-part heat supply tariff including VAT for household consumers from МКП "Чернівцітеплокомуненерго" in the latest tariff snapshot?</question>
+    <answer>2634.48 UAH per Gcal</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Which dataset on data.gov.ua contains the list of non-residential communal property transferred to lease in Chernivtsi?</question>
+    <answer>Перелік нерухомого комунального майна, що передано в оренду</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>What is the driving distance and duration from Головна 100 to Руська 1 in Chernivtsi?</question>
+    <answer>About 2778 metres and 323 seconds</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Which bus or trolleybus routes serve stops on both Головна street and Руська street in the city route data?</question>
+    <answer>No single route serves both directly; a transfer is needed. The transit tool returns candidate routes for each side.</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Find the address of the Chernivtsi city administrative services centre (ЦНАП) on Героїв Майдану.</question>
+    <answer>вул. Героїв Майдану, 7</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>Which upcoming Chernivtsi event is a dog adoption exhibition at the animal sterilisation centre on 31 October 2026?</question>
+    <answer>The event at МКП «Центр стерилізації тварин», вул. Південно-Кільцева, 47 (Гравітон), 11:00–15:00</answer>
+  </qa_pair>
+</evaluation>

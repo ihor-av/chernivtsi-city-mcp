@@ -1,0 +1,17 @@
+node_modules/
+.wrangler/
+.dev.vars
+.env
+seed/*.sql
+coverage/
+dist/
+*.log
+
+# Agent tooling, not part of the workshop or the server
+.agents/
+skills-lock.json
+
+# Local databases
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal

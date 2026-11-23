@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "chernivtsi-city-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "PUBLIC_BASE_URL": "https://chernivtsi-city-mcp.hackaton-scope-creep.workers.dev",
+    "UPSTREAM_USER_AGENT": "ChernivtsiCityMCP/1.0 (+https://github.com/chernivtsi-city-mcp)"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "chernivtsi-city",
+      "database_id": "5693d9e0-f61a-4a37-a003-d0bff25c8d93"
+    }
+  ],
+  "triggers": {
+    "crons": ["*/15 * * * *"]
+  }
+}

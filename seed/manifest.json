@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-10-31T08:49:31.875105+00:00",
+  "hello_data": "/home/ihor/HelloData",
+  "counts": {
+    "datasets": 153,
+    "resources": 801,
+    "fact_building_lease": 774,
+    "fact_land_lease": 4678,
+    "fact_building": 2062,
+    "fact_housing_account": 1722,
+    "fact_tariff": 178,
+    "fact_road_project": 17,
+    "fact_construction_project": 68,
+    "fact_social_payment": 491,
+    "fact_charity": 1263,
+    "fact_school_expense": 65,
+    "fact_parking_fine": 117,
+    "fact_payment": 798,
+    "address_points": 31845,
+    "places": 6240,
+    "transit_routes": 36,
+    "transit_stops": 432,
+    "fairs": 1
+  }
+}
